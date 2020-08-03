@@ -1,0 +1,1428 @@
+No. 1 - variables Set
+=======================
+Variable a  : 4
+Variable b  : 3
+Variable c  : 2
+Variable d  : 8
+Variable e  : 6
+Variable f  : 0
+Variable g  : 5
+Variable m  : 9
+Variable n  : 1
+Calculation Format
+=======================
+|4|3|
+ *|2|
+---
+|8|6|
+|0|5|+
+-----
+|9|1|
+-----
+No. 2 - variables Set
+=======================
+Variable a  : 1
+Variable b  : 9
+Variable c  : 2
+Variable d  : 3
+Variable e  : 8
+Variable f  : 0
+Variable g  : 7
+Variable m  : 4
+Variable n  : 5
+Calculation Format
+=======================
+|1|9|
+ *|2|
+---
+|3|8|
+|0|7|+
+-----
+|4|5|
+-----
+No. 3 - variables Set
+=======================
+Variable a  : 1
+Variable b  : 6
+Variable c  : 3
+Variable d  : 4
+Variable e  : 8
+Variable f  : 0
+Variable g  : 9
+Variable m  : 5
+Variable n  : 7
+Calculation Format
+=======================
+|1|6|
+ *|3|
+---
+|4|8|
+|0|9|+
+-----
+|5|7|
+-----
+No. 4 - variables Set
+=======================
+Variable a  : 1
+Variable b  : 8
+Variable c  : 2
+Variable d  : 3
+Variable e  : 6
+Variable f  : 0
+Variable g  : 9
+Variable m  : 4
+Variable n  : 5
+Calculation Format
+=======================
+|1|8|
+ *|2|
+---
+|3|6|
+|0|9|+
+-----
+|4|5|
+-----
+No. 5 - variables Set
+=======================
+Variable a  : 3
+Variable b  : 8
+Variable c  : 2
+Variable d  : 7
+Variable e  : 6
+Variable f  : 1
+Variable g  : 4
+Variable m  : 9
+Variable n  : 0
+Calculation Format
+=======================
+|3|8|
+ *|2|
+---
+|7|6|
+|1|4|+
+-----
+|9|0|
+-----
+No. 6 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 9
+Variable d  : 2
+Variable e  : 7
+Variable f  : 1
+Variable g  : 8
+Variable m  : 4
+Variable n  : 5
+Calculation Format
+=======================
+|0|3|
+ *|9|
+---
+|2|7|
+|1|8|+
+-----
+|4|5|
+-----
+No. 7 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 6
+Variable c  : 9
+Variable d  : 5
+Variable e  : 4
+Variable f  : 1
+Variable g  : 8
+Variable m  : 7
+Variable n  : 2
+Calculation Format
+=======================
+|0|6|
+ *|9|
+---
+|5|4|
+|1|8|+
+-----
+|7|2|
+-----
+No. 8 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 3
+Variable d  : 2
+Variable e  : 7
+Variable f  : 1
+Variable g  : 8
+Variable m  : 4
+Variable n  : 5
+Calculation Format
+=======================
+|0|9|
+ *|3|
+---
+|2|7|
+|1|8|+
+-----
+|4|5|
+-----
+No. 9 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 6
+Variable d  : 5
+Variable e  : 4
+Variable f  : 1
+Variable g  : 8
+Variable m  : 7
+Variable n  : 2
+Calculation Format
+=======================
+|0|9|
+ *|6|
+---
+|5|4|
+|1|8|+
+-----
+|7|2|
+-----
+No. 10 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 4
+Variable c  : 9
+Variable d  : 3
+Variable e  : 6
+Variable f  : 2
+Variable g  : 1
+Variable m  : 5
+Variable n  : 7
+Calculation Format
+=======================
+|0|4|
+ *|9|
+---
+|3|6|
+|2|1|+
+-----
+|5|7|
+-----
+No. 11 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 9
+Variable d  : 6
+Variable e  : 3
+Variable f  : 2
+Variable g  : 1
+Variable m  : 8
+Variable n  : 4
+Calculation Format
+=======================
+|0|7|
+ *|9|
+---
+|6|3|
+|2|1|+
+-----
+|8|4|
+-----
+No. 12 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 4
+Variable d  : 3
+Variable e  : 6
+Variable f  : 2
+Variable g  : 1
+Variable m  : 5
+Variable n  : 7
+Calculation Format
+=======================
+|0|9|
+ *|4|
+---
+|3|6|
+|2|1|+
+-----
+|5|7|
+-----
+No. 13 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 7
+Variable d  : 6
+Variable e  : 3
+Variable f  : 2
+Variable g  : 1
+Variable m  : 8
+Variable n  : 4
+Calculation Format
+=======================
+|0|9|
+ *|7|
+---
+|6|3|
+|2|1|+
+-----
+|8|4|
+-----
+No. 14 - variables Set
+=======================
+Variable a  : 1
+Variable b  : 7
+Variable c  : 4
+Variable d  : 6
+Variable e  : 8
+Variable f  : 2
+Variable g  : 5
+Variable m  : 9
+Variable n  : 3
+Calculation Format
+=======================
+|1|7|
+ *|4|
+---
+|6|8|
+|2|5|+
+-----
+|9|3|
+-----
+No. 15 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 6
+Variable d  : 1
+Variable e  : 8
+Variable f  : 2
+Variable g  : 7
+Variable m  : 4
+Variable n  : 5
+Calculation Format
+=======================
+|0|3|
+ *|6|
+---
+|1|8|
+|2|7|+
+-----
+|4|5|
+-----
+No. 16 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 6
+Variable c  : 3
+Variable d  : 1
+Variable e  : 8
+Variable f  : 2
+Variable g  : 7
+Variable m  : 4
+Variable n  : 5
+Calculation Format
+=======================
+|0|6|
+ *|3|
+---
+|1|8|
+|2|7|+
+-----
+|4|5|
+-----
+No. 17 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 6
+Variable c  : 9
+Variable d  : 5
+Variable e  : 4
+Variable f  : 2
+Variable g  : 7
+Variable m  : 8
+Variable n  : 1
+Calculation Format
+=======================
+|0|6|
+ *|9|
+---
+|5|4|
+|2|7|+
+-----
+|8|1|
+-----
+No. 18 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 6
+Variable d  : 5
+Variable e  : 4
+Variable f  : 2
+Variable g  : 7
+Variable m  : 8
+Variable n  : 1
+Calculation Format
+=======================
+|0|9|
+ *|6|
+---
+|5|4|
+|2|7|+
+-----
+|8|1|
+-----
+No. 19 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 6
+Variable d  : 1
+Variable e  : 8
+Variable f  : 2
+Variable g  : 9
+Variable m  : 4
+Variable n  : 7
+Calculation Format
+=======================
+|0|3|
+ *|6|
+---
+|1|8|
+|2|9|+
+-----
+|4|7|
+-----
+No. 20 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 6
+Variable c  : 3
+Variable d  : 1
+Variable e  : 8
+Variable f  : 2
+Variable g  : 9
+Variable m  : 4
+Variable n  : 7
+Calculation Format
+=======================
+|0|6|
+ *|3|
+---
+|1|8|
+|2|9|+
+-----
+|4|7|
+-----
+No. 21 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 4
+Variable c  : 7
+Variable d  : 2
+Variable e  : 8
+Variable f  : 3
+Variable g  : 1
+Variable m  : 5
+Variable n  : 9
+Calculation Format
+=======================
+|0|4|
+ *|7|
+---
+|2|8|
+|3|1|+
+-----
+|5|9|
+-----
+No. 22 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 4
+Variable d  : 2
+Variable e  : 8
+Variable f  : 3
+Variable g  : 1
+Variable m  : 5
+Variable n  : 9
+Calculation Format
+=======================
+|0|7|
+ *|4|
+---
+|2|8|
+|3|1|+
+-----
+|5|9|
+-----
+No. 23 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 2
+Variable c  : 9
+Variable d  : 1
+Variable e  : 8
+Variable f  : 3
+Variable g  : 6
+Variable m  : 5
+Variable n  : 4
+Calculation Format
+=======================
+|0|2|
+ *|9|
+---
+|1|8|
+|3|6|+
+-----
+|5|4|
+-----
+No. 24 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 2
+Variable d  : 1
+Variable e  : 8
+Variable f  : 3
+Variable g  : 6
+Variable m  : 5
+Variable n  : 4
+Calculation Format
+=======================
+|0|9|
+ *|2|
+---
+|1|8|
+|3|6|+
+-----
+|5|4|
+-----
+No. 25 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 6
+Variable c  : 7
+Variable d  : 4
+Variable e  : 2
+Variable f  : 3
+Variable g  : 9
+Variable m  : 8
+Variable n  : 1
+Calculation Format
+=======================
+|0|6|
+ *|7|
+---
+|4|2|
+|3|9|+
+-----
+|8|1|
+-----
+No. 26 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 6
+Variable d  : 4
+Variable e  : 2
+Variable f  : 3
+Variable g  : 9
+Variable m  : 8
+Variable n  : 1
+Calculation Format
+=======================
+|0|7|
+ *|6|
+---
+|4|2|
+|3|9|+
+-----
+|8|1|
+-----
+No. 27 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 9
+Variable d  : 2
+Variable e  : 7
+Variable f  : 4
+Variable g  : 1
+Variable m  : 6
+Variable n  : 8
+Calculation Format
+=======================
+|0|3|
+ *|9|
+---
+|2|7|
+|4|1|+
+-----
+|6|8|
+-----
+No. 28 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 3
+Variable d  : 2
+Variable e  : 7
+Variable f  : 4
+Variable g  : 1
+Variable m  : 6
+Variable n  : 8
+Calculation Format
+=======================
+|0|9|
+ *|3|
+---
+|2|7|
+|4|1|+
+-----
+|6|8|
+-----
+No. 29 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 2
+Variable c  : 8
+Variable d  : 1
+Variable e  : 6
+Variable f  : 4
+Variable g  : 3
+Variable m  : 5
+Variable n  : 9
+Calculation Format
+=======================
+|0|2|
+ *|8|
+---
+|1|6|
+|4|3|+
+-----
+|5|9|
+-----
+No. 30 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 8
+Variable c  : 2
+Variable d  : 1
+Variable e  : 6
+Variable f  : 4
+Variable g  : 3
+Variable m  : 5
+Variable n  : 9
+Calculation Format
+=======================
+|0|8|
+ *|2|
+---
+|1|6|
+|4|3|+
+-----
+|5|9|
+-----
+No. 31 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 2
+Variable c  : 9
+Variable d  : 1
+Variable e  : 8
+Variable f  : 4
+Variable g  : 5
+Variable m  : 6
+Variable n  : 3
+Calculation Format
+=======================
+|0|2|
+ *|9|
+---
+|1|8|
+|4|5|+
+-----
+|6|3|
+-----
+No. 32 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 2
+Variable d  : 1
+Variable e  : 8
+Variable f  : 4
+Variable g  : 5
+Variable m  : 6
+Variable n  : 3
+Calculation Format
+=======================
+|0|9|
+ *|2|
+---
+|1|8|
+|4|5|+
+-----
+|6|3|
+-----
+No. 33 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 2
+Variable c  : 9
+Variable d  : 1
+Variable e  : 8
+Variable f  : 4
+Variable g  : 7
+Variable m  : 6
+Variable n  : 5
+Calculation Format
+=======================
+|0|2|
+ *|9|
+---
+|1|8|
+|4|7|+
+-----
+|6|5|
+-----
+No. 34 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 2
+Variable d  : 1
+Variable e  : 8
+Variable f  : 4
+Variable g  : 7
+Variable m  : 6
+Variable n  : 5
+Calculation Format
+=======================
+|0|9|
+ *|2|
+---
+|1|8|
+|4|7|+
+-----
+|6|5|
+-----
+No. 35 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 7
+Variable d  : 2
+Variable e  : 1
+Variable f  : 4
+Variable g  : 8
+Variable m  : 6
+Variable n  : 9
+Calculation Format
+=======================
+|0|3|
+ *|7|
+---
+|2|1|
+|4|8|+
+-----
+|6|9|
+-----
+No. 36 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 3
+Variable d  : 2
+Variable e  : 1
+Variable f  : 4
+Variable g  : 8
+Variable m  : 6
+Variable n  : 9
+Calculation Format
+=======================
+|0|7|
+ *|3|
+---
+|2|1|
+|4|8|+
+-----
+|6|9|
+-----
+No. 37 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 4
+Variable c  : 9
+Variable d  : 3
+Variable e  : 6
+Variable f  : 5
+Variable g  : 1
+Variable m  : 8
+Variable n  : 7
+Calculation Format
+=======================
+|0|4|
+ *|9|
+---
+|3|6|
+|5|1|+
+-----
+|8|7|
+-----
+No. 38 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 6
+Variable c  : 7
+Variable d  : 4
+Variable e  : 2
+Variable f  : 5
+Variable g  : 1
+Variable m  : 9
+Variable n  : 3
+Calculation Format
+=======================
+|0|6|
+ *|7|
+---
+|4|2|
+|5|1|+
+-----
+|9|3|
+-----
+No. 39 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 6
+Variable d  : 4
+Variable e  : 2
+Variable f  : 5
+Variable g  : 1
+Variable m  : 9
+Variable n  : 3
+Calculation Format
+=======================
+|0|7|
+ *|6|
+---
+|4|2|
+|5|1|+
+-----
+|9|3|
+-----
+No. 40 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 4
+Variable d  : 3
+Variable e  : 6
+Variable f  : 5
+Variable g  : 1
+Variable m  : 8
+Variable n  : 7
+Calculation Format
+=======================
+|0|9|
+ *|4|
+---
+|3|6|
+|5|1|+
+-----
+|8|7|
+-----
+No. 41 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 6
+Variable d  : 1
+Variable e  : 8
+Variable f  : 5
+Variable g  : 4
+Variable m  : 7
+Variable n  : 2
+Calculation Format
+=======================
+|0|3|
+ *|6|
+---
+|1|8|
+|5|4|+
+-----
+|7|2|
+-----
+No. 42 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 9
+Variable d  : 2
+Variable e  : 7
+Variable f  : 5
+Variable g  : 4
+Variable m  : 8
+Variable n  : 1
+Calculation Format
+=======================
+|0|3|
+ *|9|
+---
+|2|7|
+|5|4|+
+-----
+|8|1|
+-----
+No. 43 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 6
+Variable c  : 3
+Variable d  : 1
+Variable e  : 8
+Variable f  : 5
+Variable g  : 4
+Variable m  : 7
+Variable n  : 2
+Calculation Format
+=======================
+|0|6|
+ *|3|
+---
+|1|8|
+|5|4|+
+-----
+|7|2|
+-----
+No. 44 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 3
+Variable d  : 2
+Variable e  : 7
+Variable f  : 5
+Variable g  : 4
+Variable m  : 8
+Variable n  : 1
+Calculation Format
+=======================
+|0|9|
+ *|3|
+---
+|2|7|
+|5|4|+
+-----
+|8|1|
+-----
+No. 45 - variables Set
+=======================
+Variable a  : 1
+Variable b  : 8
+Variable c  : 2
+Variable d  : 3
+Variable e  : 6
+Variable f  : 5
+Variable g  : 4
+Variable m  : 9
+Variable n  : 0
+Calculation Format
+=======================
+|1|8|
+ *|2|
+---
+|3|6|
+|5|4|+
+-----
+|9|0|
+-----
+No. 46 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 2
+Variable c  : 9
+Variable d  : 1
+Variable e  : 8
+Variable f  : 5
+Variable g  : 6
+Variable m  : 7
+Variable n  : 4
+Calculation Format
+=======================
+|0|2|
+ *|9|
+---
+|1|8|
+|5|6|+
+-----
+|7|4|
+-----
+No. 47 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 9
+Variable c  : 2
+Variable d  : 1
+Variable e  : 8
+Variable f  : 5
+Variable g  : 6
+Variable m  : 7
+Variable n  : 4
+Calculation Format
+=======================
+|0|9|
+ *|2|
+---
+|1|8|
+|5|6|+
+-----
+|7|4|
+-----
+No. 48 - variables Set
+=======================
+Variable a  : 1
+Variable b  : 7
+Variable c  : 2
+Variable d  : 3
+Variable e  : 4
+Variable f  : 5
+Variable g  : 6
+Variable m  : 9
+Variable n  : 0
+Calculation Format
+=======================
+|1|7|
+ *|2|
+---
+|3|4|
+|5|6|+
+-----
+|9|0|
+-----
+No. 49 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 4
+Variable d  : 1
+Variable e  : 2
+Variable f  : 5
+Variable g  : 7
+Variable m  : 6
+Variable n  : 9
+Calculation Format
+=======================
+|0|3|
+ *|4|
+---
+|1|2|
+|5|7|+
+-----
+|6|9|
+-----
+No. 50 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 4
+Variable c  : 3
+Variable d  : 1
+Variable e  : 2
+Variable f  : 5
+Variable g  : 7
+Variable m  : 6
+Variable n  : 9
+Calculation Format
+=======================
+|0|4|
+ *|3|
+---
+|1|2|
+|5|7|+
+-----
+|6|9|
+-----
+No. 51 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 4
+Variable c  : 7
+Variable d  : 2
+Variable e  : 8
+Variable f  : 6
+Variable g  : 3
+Variable m  : 9
+Variable n  : 1
+Calculation Format
+=======================
+|0|4|
+ *|7|
+---
+|2|8|
+|6|3|+
+-----
+|9|1|
+-----
+No. 52 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 4
+Variable d  : 2
+Variable e  : 8
+Variable f  : 6
+Variable g  : 3
+Variable m  : 9
+Variable n  : 1
+Calculation Format
+=======================
+|0|7|
+ *|4|
+---
+|2|8|
+|6|3|+
+-----
+|9|1|
+-----
+No. 53 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 7
+Variable d  : 2
+Variable e  : 1
+Variable f  : 6
+Variable g  : 4
+Variable m  : 8
+Variable n  : 5
+Calculation Format
+=======================
+|0|3|
+ *|7|
+---
+|2|1|
+|6|4|+
+-----
+|8|5|
+-----
+No. 54 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 3
+Variable d  : 2
+Variable e  : 1
+Variable f  : 6
+Variable g  : 4
+Variable m  : 8
+Variable n  : 5
+Calculation Format
+=======================
+|0|7|
+ *|3|
+---
+|2|1|
+|6|4|+
+-----
+|8|5|
+-----
+No. 55 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 4
+Variable c  : 7
+Variable d  : 2
+Variable e  : 8
+Variable f  : 6
+Variable g  : 5
+Variable m  : 9
+Variable n  : 3
+Calculation Format
+=======================
+|0|4|
+ *|7|
+---
+|2|8|
+|6|5|+
+-----
+|9|3|
+-----
+No. 56 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 4
+Variable c  : 8
+Variable d  : 3
+Variable e  : 2
+Variable f  : 6
+Variable g  : 5
+Variable m  : 9
+Variable n  : 7
+Calculation Format
+=======================
+|0|4|
+ *|8|
+---
+|3|2|
+|6|5|+
+-----
+|9|7|
+-----
+No. 57 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 4
+Variable d  : 2
+Variable e  : 8
+Variable f  : 6
+Variable g  : 5
+Variable m  : 9
+Variable n  : 3
+Calculation Format
+=======================
+|0|7|
+ *|4|
+---
+|2|8|
+|6|5|+
+-----
+|9|3|
+-----
+No. 58 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 8
+Variable c  : 4
+Variable d  : 3
+Variable e  : 2
+Variable f  : 6
+Variable g  : 5
+Variable m  : 9
+Variable n  : 7
+Calculation Format
+=======================
+|0|8|
+ *|4|
+---
+|3|2|
+|6|5|+
+-----
+|9|7|
+-----
+No. 59 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 8
+Variable d  : 2
+Variable e  : 4
+Variable f  : 6
+Variable g  : 7
+Variable m  : 9
+Variable n  : 1
+Calculation Format
+=======================
+|0|3|
+ *|8|
+---
+|2|4|
+|6|7|+
+-----
+|9|1|
+-----
+No. 60 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 8
+Variable c  : 3
+Variable d  : 2
+Variable e  : 4
+Variable f  : 6
+Variable g  : 7
+Variable m  : 9
+Variable n  : 1
+Calculation Format
+=======================
+|0|8|
+ *|3|
+---
+|2|4|
+|6|7|+
+-----
+|9|1|
+-----
+No. 61 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 2
+Variable c  : 7
+Variable d  : 1
+Variable e  : 4
+Variable f  : 6
+Variable g  : 9
+Variable m  : 8
+Variable n  : 3
+Calculation Format
+=======================
+|0|2|
+ *|7|
+---
+|1|4|
+|6|9|+
+-----
+|8|3|
+-----
+No. 62 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 7
+Variable c  : 2
+Variable d  : 1
+Variable e  : 4
+Variable f  : 6
+Variable g  : 9
+Variable m  : 8
+Variable n  : 3
+Calculation Format
+=======================
+|0|7|
+ *|2|
+---
+|1|4|
+|6|9|+
+-----
+|8|3|
+-----
+No. 63 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 8
+Variable d  : 2
+Variable e  : 4
+Variable f  : 7
+Variable g  : 1
+Variable m  : 9
+Variable n  : 5
+Calculation Format
+=======================
+|0|3|
+ *|8|
+---
+|2|4|
+|7|1|+
+-----
+|9|5|
+-----
+No. 64 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 8
+Variable c  : 3
+Variable d  : 2
+Variable e  : 4
+Variable f  : 7
+Variable g  : 1
+Variable m  : 9
+Variable n  : 5
+Calculation Format
+=======================
+|0|8|
+ *|3|
+---
+|2|4|
+|7|1|+
+-----
+|9|5|
+-----
+No. 65 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 6
+Variable d  : 1
+Variable e  : 8
+Variable f  : 7
+Variable g  : 4
+Variable m  : 9
+Variable n  : 2
+Calculation Format
+=======================
+|0|3|
+ *|6|
+---
+|1|8|
+|7|4|+
+-----
+|9|2|
+-----
+No. 66 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 6
+Variable c  : 3
+Variable d  : 1
+Variable e  : 8
+Variable f  : 7
+Variable g  : 4
+Variable m  : 9
+Variable n  : 2
+Calculation Format
+=======================
+|0|6|
+ *|3|
+---
+|1|8|
+|7|4|+
+-----
+|9|2|
+-----
+No. 67 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 3
+Variable c  : 4
+Variable d  : 1
+Variable e  : 2
+Variable f  : 8
+Variable g  : 5
+Variable m  : 9
+Variable n  : 7
+Calculation Format
+=======================
+|0|3|
+ *|4|
+---
+|1|2|
+|8|5|+
+-----
+|9|7|
+-----
+No. 68 - variables Set
+=======================
+Variable a  : 0
+Variable b  : 4
+Variable c  : 3
+Variable d  : 1
+Variable e  : 2
+Variable f  : 8
+Variable g  : 5
+Variable m  : 9
+Variable n  : 7
+Calculation Format
+=======================
+|0|4|
+ *|3|
+---
+|1|2|
+|8|5|+
+-----
+|9|7|
+-----
